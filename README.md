@@ -1,8 +1,6 @@
 # Olá! Aqui quem fala é o Pedrão 👋
 
-Seja bem vindo ao meu perfil, sou um desenvolvedor de software generalista, escrevendo código com paixão desde 2016 e trabalhando com Tecnologia desde 2022! Recentemente resolvi atualizar este perfil, então você pode acompanhar essa evolução nas estatísticas abaixo ou acompanhando meus repositórios!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c4rvPedro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Seja bem vindo ao meu perfil, sou um desenvolvedor de software generalista, escrevendo código com paixão desde 2016 e trabalhando com Tecnologia desde 2022!
 
 ## Estou trabalhando atualmente com as tecnologias:
 <div style="display: inline_block"><br>
