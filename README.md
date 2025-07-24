@@ -1,6 +1,6 @@
 # Olá! Aqui quem fala é o Pedrão 👋
 
-Seja bem vindo ao meu perfil, sou um desenvolvedor de software generalista, escrevendo código com paixão desde 2016 e trabalhando com Tecnologia desde 2022!
+Dev Fullstack!
 
 ## Estou trabalhando atualmente com as tecnologias:
 <div style="display: inline_block"><br>
